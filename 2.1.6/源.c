@@ -9,7 +9,7 @@ int bullet_x, bullet_y;              //子弹位置
 int enemy_x, enemy_y;                //敌机位置
 int high, width;                     //游戏画面尺寸
 int score;                          //得分
-
+//测试
 
 void gotoxy(int x, int y)
 {
